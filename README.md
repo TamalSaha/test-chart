@@ -9,5 +9,5 @@ $ ./bin/helm ls
 
 ## Upgrade
 ```sh
-helm upgrade --set ns=c2 <RELEAsE_NAME> test-chart
+helm upgrade --set ns=c2 <RELEASE_NAME> test-chart
 ```
