@@ -1,0 +1,8 @@
+clustermetadata:
+  appscode-api-grpc-endpoint: https://api.appscode.info:3443
+  appscode-api-http-endpoint: https://api.appscode.info
+  appscode-cluster-root-domain: appscode.xyz
+  appscode-ns: qacode
+  cluster-name: h505
+  cluster-uid: ACID-K8S-C-estcsmgyisdadzx
+  namespace: default
