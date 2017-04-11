@@ -1,5 +1,2 @@
-appscodeAPIGrpcEndpoint: https://api.appscode.info:3443
-appscodeAPIhttpEndpoint: https://api.appscode.info
-appscodeClusterRootDomain: appscode.xyz
-appscodeNs: qacode
+ns: c1
 clusterName: h505
